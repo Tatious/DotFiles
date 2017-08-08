@@ -1,0 +1,11 @@
+[user]
+	email = esqacb@gmail.com
+	name = Austin Beaulieu
+[core]
+	editor = emacs
+[push]
+	default = simple
+[alias]
+	st = status
+	ci = commit
+	br = branch
